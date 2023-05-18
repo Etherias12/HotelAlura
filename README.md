@@ -1,2 +1,2 @@
 # Challenge /Alura / Latam
-usuario y contraseña: pepito, 
+usuario y contraseña: pepito,  admin
